@@ -1,0 +1,38 @@
+.form1{
+
+    padding-left: 20px;
+    align-items: justify;
+    background-color: darkgreens;
+    
+}
+
+.part1{
+   
+    justify-items: right;
+    display: block;
+    display:flexbox;
+    align-items: left;
+    /*justify-content: left;*/
+}
+
+.part2{
+    display: block;
+    justify-items: left;
+    height: 200px;  
+    /*justify-content: right;*/
+}
+
+input{
+    padding-left: 50px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    display: block;
+    
+}
+label{
+    text-align: left;
+    height: 200px;
+}
+.other label{
+    text-align: left;
+}
