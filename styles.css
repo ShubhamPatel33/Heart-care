@@ -17,8 +17,7 @@
 
 .part2{
     display: block;
-    justify-items: left;
-    height: 200px;  
+    justify-items: left; 
     /*justify-content: right;*/
 }
 
